@@ -24,5 +24,4 @@
 
 <p align="center">
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stefannysj&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10" alt="Lenguajes más usados:" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stefannysj&layout-compact&theme=tokyo-night&hide_border=false&radius=10&area=false" alt="Gráfico de actividad" />
 </p>
