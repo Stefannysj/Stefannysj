@@ -22,6 +22,26 @@
 
 <h2 align="center">📊 Actividad</h2>
 
-<p align="center">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stefannysj&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10" alt="Lenguajes más usados:" />
-</p>
+<div align="center">
+
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stefannysj&theme=radical" alt="Repos per Language" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stefannysj&theme=radical" alt="Most Commit Language" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stefannysj&theme=radical" alt="GitHub Stats Summary" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stefannysj&theme=radical&utc_offset=5.5" alt="Productive Time" />
+      </td>
+    </tr>
+
+  </table>
+      </div>
+<h3 align="center"><sub>⭐ Gracias por pasarte por mi perfil ⭐</sub></h3>
